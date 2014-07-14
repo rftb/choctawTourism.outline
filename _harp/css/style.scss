@@ -7,6 +7,7 @@
 html, body, object, iframe, fieldset {
   margin: 0  !important;
   padding: 0  !important;
+  background: #fafafa;
   border: 0 !important; }
 
 ol.timeline , .timeline ul {
@@ -17,19 +18,24 @@ ol.timeline , .timeline ul {
 header, footer, nav, section, article, hgroup, figure {
   display: block; }
 
+a {
+  color: #489ADA;
+}
+
 /************End Reset**************/
 /************Global**************/
 
 
 .sidebar > h1 {
   font-size: 1.25em;
-  background-color: #333;
   margin: 0 -.85em;
   padding: 1em;
   font-weight: 300;
+  border-bottom: 1px solid #f7f7f7;
   letter-spacing: .05em;
   a {
-    color: #FFF;
+    color: #666;
+    color: #666;
   }
 }
 
@@ -171,7 +177,7 @@ h1 {
   top: 0;
   left: 0;
   margin: 0;
-  background-color: #efefef;
+  background-color: #fefefe;
   color: #333;
   height: 100%;
 
@@ -191,7 +197,7 @@ h1 {
            -o-transition: all .5s;
               transition: all .5s;
       &.active {
-        background-color: #FFF;
+        background-color: #fafafa;
         margin-right: -4em;
         margin-left: -1em;
         padding-left: 1em;
@@ -206,20 +212,20 @@ h1 {
 
 #details {
   padding: 1em 3em;
-
   h1 {
-    border-bottom: 2px solid #f7f7f7;
-    margin-top: .5em;
+    border-bottom: 2px solid #f0f0f0;
+    margin-top: 2em;
     padding-bottom: .5em;
-    font-size: 2.2em;
+    font-size: 2.1em;
+  }
+
+  h2 {
+    font-size: 1.7em;
+    font-weight: 300;
   }
 
   h2, h3, h4 {
-    margin: .75em 0 .4em;
-  }
-
-  p, ul, ol {
-    font-size: 1.1em;
+    margin: .75em 0 .5em;
   }
 
   hr {
