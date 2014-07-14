@@ -1,0 +1,36 @@
+{
+  "timeline": [
+    {
+      "stamp": "Outline",
+      "links": {
+        "> Custom Post Types": "cpt.html"
+      , "> Custom Field (repeaters)": "repeaters.html"
+      }
+    }
+  ,     {
+      "stamp": "Sprint 1",
+      "links": {
+        "> Hosting & DNS : General": "hosting.html"
+      , "Security Config" : "#"
+      , "Backup Solution" : "#"
+      , "> Begin Front End Templating" : "frontend.html"
+      }
+    }
+  , {
+      "stamp": "Sprint 2",
+      "links": {
+        "> Front End Templating (cont.)" : "frontend.html"
+      , "> Interactive Maps" : "maps.html"
+      , "Testing" : "#"
+      }
+    }
+    , {
+      "stamp": "Sprint 3",
+      "links": {
+        "> Front End Templating (cont.)" : "frontend.html"
+      , "> Interactive Maps (cont.)" : "maps.html"
+      , "Extensive Testing" : "#"
+      }
+    }
+  ]
+}
