@@ -21,7 +21,7 @@
       "stamp": "Sprint 2",
       "links": {
         "> Front End Templating (cont.)" : "frontend.html"
-      , "> Interactive Maps" : "maps.html"
+      , "Interactive Maps" : "maps.html"
       , "Testing" : "#"
       }
     }
