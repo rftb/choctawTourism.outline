@@ -21,16 +21,24 @@
       "stamp": "Sprint 2",
       "links": {
         "> Front End Templating (cont.)" : "frontend.html"
-      , "Interactive Maps" : "maps.html"
+      , "> Interactive Maps" : "maps.html"
       , "Testing" : "#"
       }
     }
     , {
       "stamp": "Sprint 3",
       "links": {
-        "> Front End Templating (cont.)" : "frontend.html"
+        "> Ticket Sales End Templating (cont.)" : "frontend.html"
       , "> Interactive Maps (cont.)" : "maps.html"
       , "Extensive Testing" : "#"
+      }
+    }
+    , {
+      "stamp": "Sprint 4",
+      "links": {
+        "> Ticket Sales Functionality" : "tickets.html"
+      , "Optimization" : "#"
+      , "Testing" : "#"
       }
     }
   ]
